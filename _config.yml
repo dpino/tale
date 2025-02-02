@@ -1,17 +1,20 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          La Experiencia Tesla
+email:          exptesla@proton.me
+description: >- 
+  Tesla me ha vendido un coche roto y se niega a devolverme el dinero.                                                                                                                                                                                  
+  En este blog te cuento cómo paso.
+baseurl:        ""
+url:            ""
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Experiencia Tesla
+  url:          https://www.laexperienciatesla.com
+  email:        exptesla@proton.me
 
 # Build settings
 markdown:       kramdown
