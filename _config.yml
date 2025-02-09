@@ -1,11 +1,11 @@
 # Site settings
 title:          My Tesla Experience
-email:          exptesla@proton.me
+email:          experienciatesla@proton.me
 description: >-
   Tesla sold me a broken car and refuses to give me my money back.
   In this blog I tell you how it happened.
 baseurl:        ""
-url:            ""
+url:            "https://www.myteslaexperience.com"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -14,7 +14,7 @@ google_analytics: UA—XXXXXXXX-X
 author:
   name:         My Tesla Experience
   url:          https://www.myteslaexperience.com
-  email:        exptesla@proton.me
+  email:        experienciatesla@proton.me
 
 # Build settings
 markdown:       kramdown
